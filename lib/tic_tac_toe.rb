@@ -70,8 +70,9 @@ class TicTacToe
       display_board
     else
       turn
+    end
   end
-  end
+  
   
   
 end
