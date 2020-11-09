@@ -47,4 +47,4 @@ class TicTacToe
       end
     end
     return turn
-end
+  end
